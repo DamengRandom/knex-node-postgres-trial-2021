@@ -1,0 +1,17 @@
+{
+  "name": "knexjs-tutorial-2021",
+  "version": "1.0.0",
+  "description": "damengrandom knex study",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Dameng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.2",
+    "pg": "^8.5.1"
+  }
+}
