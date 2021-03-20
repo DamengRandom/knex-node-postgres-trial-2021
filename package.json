@@ -4,6 +4,7 @@
   "description": "damengrandom knex study",
   "main": "index.js",
   "scripts": {
+    "migrate": "npx knex migrate:latest --knexfile db/knexfile.js",
     "dev": "nodemon index.js"
   },
   "keywords": [],
